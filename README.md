@@ -4,7 +4,11 @@
 
 [dox]: https://docs.rs/ctest2
 
-**Note: This is a fork of [`ctest`], intended as a temporary replacement until maintenance of [`ctest`] resumes.**
+## Archive Notice:
+
+This repository is no longer maintained in favor of the original `ctest` crate. Check out https://github.com/rust-lang/libc/tree/main/ctest for the latest updates.
+
+---
 
 [`ctest`]: https://crates.io/crates/ctest
 
